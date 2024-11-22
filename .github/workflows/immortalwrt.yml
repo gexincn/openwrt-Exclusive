@@ -6,7 +6,7 @@
 # Blog: https://p3terx.com
 #=================================================
 
-name: OpenWrt-lede6.6-2305
+name: Immortalwrt
 
 permissions: write-all
 #开启写权限，防止无法上传到release
